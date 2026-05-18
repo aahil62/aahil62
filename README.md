@@ -14,8 +14,7 @@ Contributor to [meshery/meshery](https://github.com/meshery/meshery). Submitted 
 | Event-Driven | SQS + SNS → Kubernetes | [#19490](https://github.com/meshery/meshery/pull/19490) · [#19507](https://github.com/meshery/meshery/pull/19507) |
 | Serverless Security | Lambda + Secrets Manager → Kubernetes | [#19502](https://github.com/meshery/meshery/pull/19502) · [#19508](https://github.com/meshery/meshery/pull/19508) |
 | Azure Messaging | Service Bus + Event Hub → Kubernetes | [#19493](https://github.com/meshery/meshery/pull/19493) |
-| Event Router | EventBridge → Kubernetes | [#19528] |
-(https://github.com/meshery/meshery/pull/19528) |
+| Event Router | EventBridge → Kubernetes | [#19528](https://github.com/meshery/meshery/pull/19528) |
 AWS ACK Controllers and Azure Service Operator CRDs · Active in Meshery Slack · LFC102 (Linux Foundation)
 
 ---
