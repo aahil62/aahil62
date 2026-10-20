@@ -2,7 +2,7 @@
 
 I build AI systems on solid backends, and I measure them. Computer Engineering student at PCCOE Pune, open-source contributor to **CNCF Meshery**, and freelance **n8n AI automation** engineer on Upwork.
 
-[LinkedIn](https://linkedin.com/in/aahil-sayed) · [Upwork](https://www.upwork.com/freelancers/~01c6df3ebf5b39913a) · [7.aahilsayed.7@gmail.com](mailto:7.aahilsayed.7@gmail.com) · Pune, India
+[LinkedIn](https://linkedin.com/in/aahil-sayed) · [Upwork](https://www.upwork.com/freelancers/~01c6df3ebf5b39913a) · [aahilsayedworks@gmail.com](mailto:aahilsayedworks@gmail.com) · Pune, India
 
 ---
 
